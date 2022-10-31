@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Victor Peter</h1>
 <h3 align="center">A passionate frontend developer from Nigeria, aspiring to become a full stack developer then transition into blockchain developer.</h3>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoPm0ekmImjhO0eidmqJyILR6BOxrUna0ybtPMfJWYAsn9LlqkfglCRBRWb6Xct9uNqcs&usqp=CAU" align="right">
+<img src="C:\Users\Hp\Videos\Captures\Peter Victor - Google Chrome 31_10_2022 23_14_07.png" align="right">
 
-<p align="left"> <img src="C:\Users\Hp\Videos\Captures\Peter Victor - Google Chrome 31_10_2022 23_14_07.png" alt="pvsaint" /> </p>
+<p align="left"> <img src="" alt="pvsaint" /> </p>
 
 - 🌱 I’m currently learning **JavaScript**
 
