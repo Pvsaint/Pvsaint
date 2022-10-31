@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Victor Peter</h1>
 <h3 align="center">A passionate frontend developer from Nigeria, planning on becoming a full stack developer then transition into blockchain developer.l</h3>
+<img src="https://unsplash.com/photos/6sAl6aQ4OWI" alt="laptop"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pvsaint&label=Profile%20views&color=0e75b6&style=flat" alt="pvsaint" /> </p>
 
