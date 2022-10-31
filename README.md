@@ -9,11 +9,11 @@
 
 - 🤝 I’m looking for help with **understanding react**
 
-- 👨‍💻 All of my projects are available at [victorpeter.netlify.app](victorpeter.netlify.app)
+- 👨‍💻 All of my projects are available at [https://victorpeter.netlify.app/](https://victorpeter.netlify.app/)
 
 - 💬 Ask me about **html, css, javascript, react, etc...**
 
-- 📫 How to reach me **https://victorpeter.netlify.app/**
+- 📫 How to reach me **vpeter817@gmail.com**
 
 - ⚡ Fun fact **I'm a funny person**
 
