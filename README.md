@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **html, css, javascript, react, etc...**
 
-- 📫 How to reach me **vpeter817@gmail.com**
+- 📫 How to reach me **https://victorpeter.netlify.app/**
 
 - ⚡ Fun fact **I'm a funny person**
 
