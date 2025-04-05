@@ -1,23 +1,16 @@
 <h1 align="center">Hi 👋, I'm Victor Peter</h1>
-<h3 align="center">A passionate frontend developer from Nigeria, planning on becoming a full stack developer then transition into blockchain developer.l</h3>
+<h3 align="center">A passionate frontend and smart contract developer from Nigeria.l</h3>
 
 ![Peter Victor - Google Chrome 31_10_2022 23_14_07](https://user-images.githubusercontent.com/103365060/199128360-3a6ac58d-ddac-4f6d-824b-56d63727308c.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pvsaint&label=Profile%20views&color=0e75b6&style=flat" alt="pvsaint" /> </p>
 
-- 🌱 I’m currently learning **Solidity and Cairo **
-
-- 👯 I’m looking for **junior smart contract gigs**
-
-- 🤝 I’m looking for help with **understanding web3**
-
-- 👨‍💻 All of my projects are available at [https://victorpeter.netlify.app/](https://victorpeter.netlify.app/)
-
-- 💬 Ask me about **html, css, javascript, react, blockchain, etc...**
-
-- 📫 How to reach me **vpeter817@gmail.com**
-
-- ⚡ Fun fact **I'm a funny person**
+🔭 I’m currently working on StarkRemit
+🌱 I’m currently learning Rust and AI integration
+💬 Ask me about React,Solidity, Cairo
+👨‍💻 All of my projects are available at https://victorpeter.netlify.app/
+📫 How to reach me vpeter817@gmail.com
+⚡ Fun fact I think I'm funny
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
