@@ -4,14 +4,14 @@
 ![Peter Victor - Google Chrome 31_10_2022 23_14_07](https://user-images.githubusercontent.com/103365060/199128360-3a6ac58d-ddac-4f6d-824b-56d63727308c.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pvsaint&label=Profile%20views&color=0e75b6&style=flat" alt="pvsaint" /> </p>
-
+<div display="flex">
 🔭 I’m currently working on StarkRemit
 🌱 I’m currently learning Rust and AI integration
 💬 Ask me about React,Solidity, Cairo
 👨‍💻 All of my projects are available at https://victorpeter.netlify.app/
 📫 How to reach me vpeter817@gmail.com
 ⚡ Fun fact I think I'm funny
-
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pvsaint" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pvsaint" height="30" width="40" /></a>
