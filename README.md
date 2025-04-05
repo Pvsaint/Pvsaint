@@ -4,14 +4,14 @@
 ![Peter Victor - Google Chrome 31_10_2022 23_14_07](https://user-images.githubusercontent.com/103365060/199128360-3a6ac58d-ddac-4f6d-824b-56d63727308c.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pvsaint&label=Profile%20views&color=0e75b6&style=flat" alt="pvsaint" /> </p>
-<ul display="flex" list-style-type="none">
-<li>🔭 I’m currently working on StarkRemit</li>
-<li>🌱 I’m currently learning Rust and AI integration</li>
-<li>💬 Ask me about React,Solidity, Cairo
-<li>👨‍💻 All of my projects are available at https://victorpeter.netlify.app/</li>
-<li>📫 How to reach me vpeter817@gmail.com</li>
-<li>⚡ Fun fact I think I'm funny</li>
-</ul>
+<div display="flex">
+<div>🔭 I’m currently working on StarkRemit</li>
+<div>🌱 I’m currently learning Rust and AI integration</li>
+<div>💬 Ask me about React,Solidity, Cairo
+<div>👨‍💻 All of my projects are available at https://victorpeter.netlify.app/</li>
+<div>📫 How to reach me vpeter817@gmail.com</li>
+<div>⚡ Fun fact I think I'm funny</li>
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pvsaint" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pvsaint" height="30" width="40" /></a>
