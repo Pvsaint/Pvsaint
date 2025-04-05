@@ -4,7 +4,7 @@
 ![Peter Victor - Google Chrome 31_10_2022 23_14_07](https://user-images.githubusercontent.com/103365060/199128360-3a6ac58d-ddac-4f6d-824b-56d63727308c.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pvsaint&label=Profile%20views&color=0e75b6&style=flat" alt="pvsaint" /> </p>
-<ul display="flex">
+<ul display="flex" list-style-type="none">
 <li>🔭 I’m currently working on StarkRemit</li>
 <li>🌱 I’m currently learning Rust and AI integration</li>
 <li>💬 Ask me about React,Solidity, Cairo
