@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor Peter</h1>
-<h3 align="center">A passionate frontend and smart contract developer from Nigeria.</h3>
+<h3 align="center">A passionate frontend and smart contract developer.</h3>
 
 ![Peter Victor - Google Chrome 31_10_2022 23_14_07](https://user-images.githubusercontent.com/103365060/199128360-3a6ac58d-ddac-4f6d-824b-56d63727308c.png)
 
