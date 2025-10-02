@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pvsaint&label=Profile%20views&color=0e75b6&style=flat" alt="pvsaint" /> </p>
 <div display="flex">
-<div>🔭 I’m currently working on StarkRemit</li>
+<div>🔭 I’m currently working on ChainRemit</li>
 <div>🌱 I’m currently learning Rust and AI integration</li>
 <div>💬 Ask me about React,Solidity, Cairo
 <div>👨‍💻 All of my projects are available at https://victorpeter.netlify.app/</li>
