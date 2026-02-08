@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Victor Peter</h1>
 
-<img width="1800" height="1010" alt="Screenshot 2025-10-29 at 15 11 33" src="https://github.com/user-attachments/assets/d641a493-8571-43d5-80e5-2fb29b8eab5d" />
+<img width="1800" height="1010" alt="Screenshot 2026-02-08 at 14 33 37" src="https://github.com/user-attachments/assets/79ab5767-d2a0-4721-b804-f4a786dca024" />
 <h3 align="center">A passionate software developer</h3>
 
 
